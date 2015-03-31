@@ -1,0 +1,84 @@
+@import url(http://fonts.googleapis.com/css?family=Sacramento);
+/* line 6, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+body {
+  background: url(../assets/img/pattern.png);
+  padding-bottom: 40px;
+}
+
+/* line 11, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+.logo {
+  font-family: "Sacramento", Arial;
+  font-size: 4em;
+  font-weight: bold;
+  background-color: #FFF;
+  text-align: center;
+  padding: 10px;
+}
+
+/* line 20, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+/* line 24, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+.margin-top-10 {
+  margin-top: 10px;
+}
+
+/* line 28, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+.margin-right-10 {
+  margin-right: 10px;
+}
+
+/* line 32, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+.txt-right {
+  text-align: right;
+}
+
+/* line 36, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+.border-radius-10 {
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+/* line 42, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+#chirp-wrapper {
+  background-color: #EBEBEB;
+  padding: 20px;
+  display: none;
+}
+
+/* line 48, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+.one-chirp {
+  background-color: #FFF;
+  padding: 20px;
+  font-size: 1.7em;
+  margin-top: 20px;
+}
+
+/* line 55, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+.one-chirp:first-child {
+  margin-top: 0;
+}
+
+/* line 59, /Users/sandi/Documents/Homework/chirp_chirp/Chirp_Chirp/app/assets/stylesheets/chirp.css.scss */
+#instructions-modal .modal-body {
+  font-size: 2em;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
